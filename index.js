@@ -1,4 +1,4 @@
-var speed = 10;
+var speed = 1;
 
 var columns, rows, columnWidth, rowHeight, characterArray = [];
 
